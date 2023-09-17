@@ -1,0 +1,357 @@
+﻿header {
+    background-color: dimgray;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+}
+article_img {
+    margin: 20px 25%;
+    display: flex;
+}
+.article_img img {
+    padding: 0 20px;
+    width: 30%;
+    height: 200px;
+}
+.IMG {
+    max-width: 150px;
+    height: auto;
+    text-align: center;
+}
+.IMGfooter {
+    max-width: 150px;
+    height: auto;
+    text-align: left;
+}
+
+.Nav1 {
+    background-color: dimgrey;
+    height: 10px;
+    color: white;
+}
+
+.Header-Menu {
+    padding-top: 0;
+    max-width: 960px;
+    margin: 0px auto;
+}
+
+.Menu-PC {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding-top: 30px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.Menu-PC li a {
+    display: block;
+    padding: 18px 18px;
+    text-decoration: none;
+    position: relative;
+}
+
+.child-menu {
+    position: absolute;
+    background-color: dimgray;
+    padding: 0px;
+    width: 200px;
+    display: none;
+    list-style: none;
+}
+
+.Menu-PC li:hover ul.child-menu {
+    display: block;
+}
+
+.child-menu a {
+    padding: 8px 15px;
+    border-bottom: 1px solid white;
+}
+
+.child-menu li:hover a {
+    border-bottom: 1px solid #5c5c5c;
+}
+
+.child-menu li:last-child a {
+    border: none;
+}
+
+article {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 33px;
+    text-align: center;
+    padding: 10px 20px;
+}
+
+ul.products {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+    ul.products li {
+        flex-basis: 25%;
+    }
+
+        ul.products li .product-info a {
+            display: block;
+            text-decoration: none;
+        }
+
+            ul.products li .product-info a.product-name {
+                font-weight: 500;
+                font-size: 24px;
+                padding-bottom: 25px;
+            }
+
+        ul.products li .product-info div.product-price {
+            color: blue;
+            font-size: 19px;
+            font-weight: 800;
+        }
+.Headline{
+    padding-top: 150px;
+}
+
+.Headline2 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.iPhoneList {
+    color: dodgerblue;
+    font-weight: 700;
+    padding: 10px 20px;
+    border: 1px solid dodgerblue;
+    border-radius: 10px 10px 10px 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+.Img2{
+    text-align: center;
+    padding: 30px 25px;
+}
+ul.products li .News-info a.News-name {
+    font-weight: 600;
+    font-size: 24px;
+    padding-bottom: 25px;
+    text-decoration: none;
+    color: black;
+}
+ul.products li .News-info div.News-day {
+    font-size: 19px;
+    color: transparent;
+    text-shadow: 0 0 20px rgba(0,0,0,0.5);
+    text-decoration: none;
+    color: lightgrey;
+}
+.thumbImg {
+    max-width: 350px;
+    height: auto;
+}
+.thumbImg2 {
+    max-width: 350px;
+    height: fit-content;
+    padding-bottom: 94px;
+}
+.thumbImg3 {
+    max-width: 350px;
+    height: auto;
+    padding-bottom: 40px;
+}
+.Harticle {
+    font-size: 25px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 25px;
+}
+.LastArticle{
+    font-size: 17px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.Iemail {
+    border-color: purple;
+    height: 40px;
+    border-radius: 40px 0 0 40px;
+    font-size: 18px;    
+    line-height: 20px;
+    padding: 10px 0 10px 24px;
+    width: 100%;
+    max-width: 470px;
+    padding-left: 20px !important;
+}
+.Last-Menu {
+    text-align: center;
+    padding-bottom: 50px;
+}
+.Bdangky {
+    border-spacing: 20px;
+    border-radius: 40px;
+    font-size: 18px;
+    margin-left: -22px;
+    text-transform: none;
+}
+.footer{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    width: 100%;
+}
+.container{
+    max-width:1000px;
+    margin:auto; 
+}
+footer ul li{
+    list-style: none;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.footercol {
+    display: block;
+    width: 25%;
+    padding: 0 15px;
+    justify-content: space-between;
+}
+.footer {
+    z-index: 1;
+    width: 100%;
+}
+
+.above_footer {
+    background-color: rgb(29,29,31);
+    color: white;
+}
+
+.footer_ad_left {
+    width: 15%;
+    height: 60px;
+    float: left;
+}
+
+.footer-ad-right {
+    width: 15%;
+    height: 60px;
+    float: right;
+}
+
+.row1 {
+    width: 100%;
+    border-bottom: 1px solid rgb(81,81,84);
+    display: inline-flex;
+}
+
+.col1 {
+    color: rgb(235,235,235);
+    padding: 25px 20px;
+    width: 30%;
+}
+
+@media screen and (min-width:1100px) {
+    .col2 {
+        padding: 0 5%;
+    }
+
+    .row2 p {
+        padding: 0 30% 0 3%;
+    }
+
+    col2 ul {
+        width: 50px;
+    }
+
+    .col_out {
+        display: none;
+    }
+}
+
+.col2 {
+    color: rgb(210,210,215);
+    font-size: 17px;
+    width: 60%;
+    display: inline-flex;
+}
+
+.ul1 {
+    list-style: none;
+}
+
+col2 ul li {
+    color: rgb(134,134,139);
+}
+
+.row2 {
+    display: flex;
+    width: 80%;
+    color: rgb(210,210,215);
+}
+
+    .row2 p {
+        color: rgb(81,81,84);
+        font-size: 12px;
+        width: 60%;
+    }
+
+    .row2 a img {
+        width: 10%;
+        float: right;
+        padding: 20px;
+    }
+
+.Register {
+    z-index: 0;
+    width: 100%;
+    padding: 10px 0 30px;
+    background-color: rgb(242,242,242);
+}
+
+    .Register input {
+        margin-left: 10px;
+        width: 90%;
+        height: 40px;
+        padding: 0 10px;
+        border-radius: 20px;
+        border: none;
+        position: relative;
+        outline: none;
+        z-index: 1;
+    }
+
+        .Register input::placeholder {
+            font-size: 15px;
+        }
+
+    .Register span {
+        color: white;
+        position: absolute;
+        margin: 0 32%;
+        border-radius: 20px;
+        padding: 10px;
+        background-color: rgb(0,101,204);
+        z-index: 2;
+    }
+
+        .Register span:hover {
+            filter: brightness(120%)
+        }
+
+.subscribe {
+    margin: 0 31%;
+}

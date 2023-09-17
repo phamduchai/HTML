@@ -1,0 +1,41 @@
+﻿.RegisterImg {
+    width: 620px;
+    height: 400px;
+    padding: 35px 0 0 50px;
+}
+.Gender {
+    padding-top: 30px;
+    padding-left: 80px;
+    font-size: 21px;
+}
+.Nam{
+    padding-left: 35px;
+}
+.Nu{
+    padding-left: 25px;
+}
+.radio_Gender{
+    width: 17px;
+    height: 17px;
+}
+.Day {
+    padding: 15px 40px 15px 30px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+.Month {
+    padding: 15px 15px 15px 15px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+.Year {
+    padding: 15px 40px 15px 30px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+.Attention {
+    margin-left: 80px;
+}
+.DivNone2{
+    padding-bottom: 200px;
+}

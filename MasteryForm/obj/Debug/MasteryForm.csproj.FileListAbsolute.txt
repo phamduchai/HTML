@@ -1,0 +1,177 @@
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\MasteryForm.dll.config
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\MasteryForm.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\MasteryForm.pdb
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\csc.exe
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\csc.exe.config
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\csc.rsp
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\csi.exe
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\csi.exe.config
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\csi.rsp
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.AppContext.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Collections.Immutable.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Console.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Globalization.Calendars.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.IO.Compression.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.IO.FileSystem.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Net.Http.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Net.Sockets.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Reflection.Metadata.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.ValueTuple.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Xml.XPath.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\vbc.exe
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\vbc.exe.config
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\vbc.rsp
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\VBCSCompiler.exe
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\roslyn\VBCSCompiler.exe.config
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\22DH114514\WEB\MasteryForm\MasteryForm\obj\Debug\MasteryForm.csproj.AssemblyReference.cache
+C:\22DH114514\WEB\MasteryForm\MasteryForm\obj\Debug\MasteryForm.csproj.CoreCompileInputs.cache
+C:\22DH114514\WEB\MasteryForm\MasteryForm\obj\Debug\MasteryForm.csproj.CopyComplete
+C:\22DH114514\WEB\MasteryForm\MasteryForm\obj\Debug\MasteryForm.dll
+C:\22DH114514\WEB\MasteryForm\MasteryForm\obj\Debug\MasteryForm.pdb
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\MasteryForm.dll.config
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\MasteryForm.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\MasteryForm.pdb
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\csc.exe
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\csc.exe.config
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\csc.rsp
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\csi.exe
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\csi.exe.config
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\csi.rsp
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.AppContext.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Collections.Immutable.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Console.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Globalization.Calendars.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.IO.Compression.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.IO.FileSystem.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Net.Http.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Net.Sockets.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Reflection.Metadata.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.ValueTuple.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Xml.XPath.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\vbc.exe
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\vbc.exe.config
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\vbc.rsp
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\VBCSCompiler.exe
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\roslyn\VBCSCompiler.exe.config
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\obj\Debug\MasteryForm.csproj.AssemblyReference.cache
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\obj\Debug\MasteryForm.csproj.CoreCompileInputs.cache
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\obj\Debug\MasteryForm.csproj.CopyComplete
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\obj\Debug\MasteryForm.dll
+D:\HTML TH 1\WEB\MasteryForm\MasteryForm\obj\Debug\MasteryForm.pdb
+C:\WEB\MasteryForm\MasteryForm\bin\MasteryForm.dll.config
+C:\WEB\MasteryForm\MasteryForm\bin\MasteryForm.dll
+C:\WEB\MasteryForm\MasteryForm\bin\MasteryForm.pdb
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\csc.exe
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\csc.exe.config
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\csc.rsp
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\csi.exe
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\csi.exe.config
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\csi.rsp
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.AppContext.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Collections.Immutable.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Console.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Globalization.Calendars.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.IO.Compression.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.IO.FileSystem.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Net.Http.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Net.Sockets.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Reflection.Metadata.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.ValueTuple.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Xml.XPath.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\vbc.exe
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\vbc.exe.config
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\vbc.rsp
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\VBCSCompiler.exe
+C:\WEB\MasteryForm\MasteryForm\bin\roslyn\VBCSCompiler.exe.config
+C:\WEB\MasteryForm\MasteryForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\WEB\MasteryForm\MasteryForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\WEB\MasteryForm\MasteryForm\obj\Debug\MasteryForm.csproj.AssemblyReference.cache
+C:\WEB\MasteryForm\MasteryForm\obj\Debug\MasteryForm.csproj.CoreCompileInputs.cache
+C:\WEB\MasteryForm\MasteryForm\obj\Debug\MasteryForm.csproj.CopyComplete
+C:\WEB\MasteryForm\MasteryForm\obj\Debug\MasteryForm.dll
+C:\WEB\MasteryForm\MasteryForm\obj\Debug\MasteryForm.pdb

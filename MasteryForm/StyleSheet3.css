@@ -1,0 +1,61 @@
+﻿.LoginImg {
+    width: 600px;
+    height: auto;
+    padding: 35px 0 0 50px;
+}
+.Login{
+    display: flex;
+}
+.FormLogin{
+    padding-top: 50px;
+    padding-left: 80px;
+    font-size: 32px;
+}
+.LoginUser{
+    padding: 15px 15px 15px 15px;
+    width: 400px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+.Form_div1{
+    margin-left: 80px;
+}
+.Form_div2 {
+    margin-left: 80px;
+    padding-top: 20px;
+}
+.CheckBox {
+    margin-left: 80px;
+    padding-top: 25px;
+}
+.CheckBoxBorder{
+    width: 30px;
+    height: 20px;
+}
+.CheckBox_label1{
+    font-size: 16px;
+}
+.Forgot_Password{
+    padding-left: 190px;
+}
+.LoginIn_Button {
+    width: 430px;
+    height: 45px;
+    border-radius: 8px;
+    background-color: dodgerblue;
+    color: white;
+}
+.Div_Button {
+    padding-top: 25px;
+    padding-left: 80px;
+}
+.SignUp{
+    padding-top: 25px;
+    padding-left: 80px;
+}
+.SignUp_now{
+    text-decoration: none;
+}
+.DivNone{
+    padding-bottom: 300px;
+}
