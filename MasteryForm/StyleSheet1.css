@@ -9,13 +9,19 @@
 }
 article_img {
     margin: 20px 25%;
+}
+
+.Ad_img {
+    list-style: none;
     display: flex;
 }
+
 .article_img img {
     padding: 0 20px;
-    width: 30%;
     height: 200px;
+    max-width: 100%;
 }
+
 .IMG {
     max-width: 150px;
     height: auto;
